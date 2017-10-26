@@ -4,6 +4,12 @@ Innovation Centers of Excellence
 Next Practices in Innovation Management
 http://www.thinkforachange.com/wp-content/uploads/2016/02/Innovation-Centers-of-Excellence-White-Paper.pdf
 
+http://www.testingxperts.com/services/tcoe-setup/
+https://www.slideshare.net/jaxitcouncil/qa-co-eforjitc11192013-generic
+https://www.slideshare.net/VenkatDasari/testing-centreofexcellencet-coe
+https://www.healthcareitleaders.com/blog/10-tips-for-building-a-testing-center-of-excellence-tcoe/
+https://www.worksoft.com/the-testing-center-of-excellence/
+
 
 https://www.cleverism.com/how-set-up-center-excellence/
 
